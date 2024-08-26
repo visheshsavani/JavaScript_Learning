@@ -1,0 +1,16 @@
+so when javascript code is compile then
+there are is global execution context -> which is shown by this keyword
+
+global execution context has
+two phases
+1. Memory phase
+2. Execution phase
+
+in memory phase all the variables are defined and function definition is store
+
+afte the memory phase is defined then execution phase start
+in which the actual operation start
+
+see hitesh video to understand the eg.
+
+and call stack is similar to other languages like java and c
